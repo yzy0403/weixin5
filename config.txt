@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "bC84ceCgmrwJqBLyoZ_0cvzS6hfeyAZIpdwr-pC3nf0",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oo9lX67ufI1WPKWhYBXC8axBKFKA"],
+"user": ["oo9lX67ufI1WPKWhYBXC8axBKFKA","oo9lX63H5cx6M7aMgSsV2NFjZFYo"],
 
 # 信息配置
 # 所在省份
